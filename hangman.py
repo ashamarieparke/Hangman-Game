@@ -1,5 +1,5 @@
 #December 20,2021
-#This program allows the suer to play hangman with the computer. 
+#This program allows the user to play hangman with the computer. 
 
 
 
