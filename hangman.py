@@ -6,6 +6,7 @@
 
 import random
 from words import words
+import words
 
 def get_valid_word(words):
     word = random.choice(words) #randomly chooses something from list
@@ -59,3 +60,5 @@ def main():
     else:
         print('You guessed the word', word,'!!')
 
+if __name__ == '__main__'
+    main()
