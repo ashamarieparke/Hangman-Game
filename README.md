@@ -1,3 +1,3 @@
 #hangman.py
 
-# A small beginner python project that lets the user play hangman with the computer. 
+# A Python project that allows the user to play hangman with the computer. 
